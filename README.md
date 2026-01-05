@@ -14,7 +14,7 @@ Feel free to reach out for collaboration, projects, or just a tech chat 🚀
 ---
 
 ## 📧 Email
-[![Email](https://img.shields.io/badge/Email-arikmukherjee.ai%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikmukherjee.ai@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arikmukherjee3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikmukherjee.ai@gmail.com)
 
 ---
 
